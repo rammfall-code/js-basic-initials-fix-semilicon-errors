@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-fix-semicolons-errors
 
-## Text
+## Fix formatting and fix errors and semicolons
 
 ## Criteria:
 
